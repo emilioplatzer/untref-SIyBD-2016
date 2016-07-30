@@ -9,5 +9,5 @@
 
 ## Recursos
 
-* [Software necesario para la materia](software.md)
+* [Software necesario para la materia](software.md#software-a-instalar-untref-siybd-2016)
 

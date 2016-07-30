@@ -4,7 +4,7 @@ Esta es la lista de software a instalar para las prácticas de la materia,
 en cada link debe elegirse el instalador en base al sistema operativo instalado en cada máquina. 
 
 **Usuarios de windows** deben saber si su sistema operativo está instalado en 64bits o 32bits 
-(ver [¿Cómo sé en cuántos bits trabaja mi windows?](detectar-windows.md))
+(ver [¿Cómo sé en cuántos bits trabaja mi windows?](detectar-windows.md#cómo-sé-en-cuántos-bits-trabaja-mi-windows))
 
 Postgresql 9.5.x  
    * [http://www.enterprisedb.com/products-services-training/pgdownload#windows](http://www.enterprisedb.com/products-services-training/pgdownload#windows)  o

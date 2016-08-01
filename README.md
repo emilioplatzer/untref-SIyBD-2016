@@ -10,4 +10,5 @@
 ## Recursos
 
 * [Software necesario para la materia](software.md#software-a-instalar-untref-siybd-2016)
+* [Sitios](sitios.md#sitios-de-referencia-untref-siybd-2016) de referencia, con [información](sitios.md#información) o [herramientas](sitios.md#herramientas)
 
